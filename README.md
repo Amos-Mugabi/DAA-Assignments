@@ -1,7 +1,8 @@
 # DAA-Assignment 1
 
 
-# DAA-Assignment 2
+# DAA-Assignment 3
+
 Example 1. 
 Worst Case Scenario:
 In the worst case, where the maximum element is at the end of the array or the array is sorted in descending order,
